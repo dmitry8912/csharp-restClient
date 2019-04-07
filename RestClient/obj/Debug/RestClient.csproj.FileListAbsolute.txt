@@ -1,0 +1,7 @@
+c:\users\dpankrashov.cvd\documents\visual studio 2015\Projects\RestClient\RestClient\bin\Debug\RestClient.dll
+c:\users\dpankrashov.cvd\documents\visual studio 2015\Projects\RestClient\RestClient\bin\Debug\RestClient.pdb
+c:\users\dpankrashov.cvd\documents\visual studio 2015\Projects\RestClient\RestClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\dpankrashov.cvd\documents\visual studio 2015\Projects\RestClient\RestClient\bin\Debug\Newtonsoft.Json.pdb
+c:\users\dpankrashov.cvd\documents\visual studio 2015\Projects\RestClient\RestClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\dpankrashov.cvd\documents\visual studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.dll
+c:\users\dpankrashov.cvd\documents\visual studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.pdb
