@@ -10,8 +10,8 @@ namespace ClientTest
     {
         static void Main(string[] args)
         {
-            ServiceEntityClient client = new ServiceEntityClient("http://www.mocky.io/v2/5ca9e6733700002b0b492eee");
-            var list = client.Get();
+            //ServiceEntityClient client = new ServiceEntityClient("http://www.mocky.io/v2/5ca9e6733700002b0b492eee");
+            //var list = client.Get();
             Console.ReadKey();
         }
     }

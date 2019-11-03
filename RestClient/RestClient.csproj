@@ -52,11 +52,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppDomain\Extensions\JsonExtenstions.cs" />
+    <Compile Include="AppDomain\Extensions\ResponsesExtensions.cs" />
+    <Compile Include="AppDomain\Implementations\Clients\Contracts.cs" />
+    <Compile Include="AppDomain\Implementations\Filters\ContractFilter.cs" />
+    <Compile Include="AppDomain\Implementations\Clients\IncomingInvoices.cs" />
+    <Compile Include="AppDomain\Implementations\Responses\IncomingInvoice.cs" />
+    <Compile Include="AppDomain\Implementations\Responses\Response.cs" />
     <Compile Include="AppDomain\Implementations\RestClient.cs" />
-    <Compile Include="AppDomain\Implementations\ServiceEntityClient.cs" />
+    <Compile Include="AppDomain\Exceptions\RestClientException.cs" />
+    <Compile Include="AppDomain\Implementations\Services\AleanService.cs" />
     <Compile Include="AppDomain\Interfaces\IEntity.cs" />
+    <Compile Include="AppDomain\Interfaces\IFilter.cs" />
+    <Compile Include="AppDomain\Interfaces\IResponse.cs" />
     <Compile Include="AppDomain\Interfaces\IRestClient.cs" />
     <Compile Include="AppDomain\Models\AbstractEntity.cs" />
+    <Compile Include="AppDomain\Models\ContractEntity.cs" />
+    <Compile Include="AppDomain\Models\Error.cs" />
+    <Compile Include="AppDomain\Models\Expenditure.cs" />
+    <Compile Include="AppDomain\Models\IncomingInvoice.cs" />
+    <Compile Include="AppDomain\Models\Payment.cs" />
     <Compile Include="AppDomain\Models\ServiceEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

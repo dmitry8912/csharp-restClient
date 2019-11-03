@@ -8,9 +8,10 @@ namespace RestClient.AppDomain.Interfaces
 {
     interface IRestClient<T> where T : class
     {
-        IEnumerable<T> Get();
-        T Post(IEntity entity);
-        T Put(int id, IEntity entity);
-        T Delete(int id);
+        IEnumerable<T> Get(IFilter filter);
+        T Get(int id);
+        IResponse Post(IEntity entity);
+        IResponse Put(int id, IEntity entity);
+        IResponse Delete(int id);
     }
 }

@@ -5,3 +5,31 @@ c:\users\dpankrashov.cvd\documents\visual studio 2015\Projects\RestClient\RestCl
 c:\users\dpankrashov.cvd\documents\visual studio 2015\Projects\RestClient\RestClient\bin\Debug\Newtonsoft.Json.xml
 c:\users\dpankrashov.cvd\documents\visual studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.dll
 c:\users\dpankrashov.cvd\documents\visual studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.pdb
+C:\Users\dpankrashov.CVD\Desktop\csharp-restClient\RestClient\obj\Debug\RestClient.csprojResolveAssemblyReference.cache
+C:\Users\dpankrashov.CVD\Desktop\csharp-restClient\RestClient\obj\Debug\RestClient.dll
+C:\Users\dpankrashov.CVD\Desktop\csharp-restClient\RestClient\obj\Debug\RestClient.pdb
+C:\Users\dpankrashov.CVD\Desktop\csharp-restClient\RestClient\bin\Debug\RestClient.dll
+C:\Users\dpankrashov.CVD\Desktop\csharp-restClient\RestClient\bin\Debug\RestClient.pdb
+C:\Users\dpankrashov.CVD\Desktop\csharp-restClient\RestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dpankrashov.CVD\Desktop\csharp-restClient\RestClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dpankrashov.CVD\Desktop\csharp-restClient\RestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dmitry\Desktop\csharp-restClient\RestClient\bin\Debug\RestClient.dll
+C:\Users\dmitry\Desktop\csharp-restClient\RestClient\bin\Debug\RestClient.pdb
+C:\Users\dmitry\Desktop\csharp-restClient\RestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dmitry\Desktop\csharp-restClient\RestClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dmitry\Desktop\csharp-restClient\RestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dmitry\Desktop\csharp-restClient\RestClient\obj\Debug\RestClient.csprojAssemblyReference.cache
+C:\Users\dmitry\Desktop\csharp-restClient\RestClient\obj\Debug\RestClient.csproj.CoreCompileInputs.cache
+C:\Users\dmitry\Desktop\csharp-restClient\RestClient\obj\Debug\RestClient.csproj.CopyComplete
+C:\Users\dmitry\Desktop\csharp-restClient\RestClient\obj\Debug\RestClient.dll
+C:\Users\dmitry\Desktop\csharp-restClient\RestClient\obj\Debug\RestClient.pdb
+C:\Users\dmitry\Documents\csharp-restClient\RestClient\bin\Debug\RestClient.dll
+C:\Users\dmitry\Documents\csharp-restClient\RestClient\bin\Debug\RestClient.pdb
+C:\Users\dmitry\Documents\csharp-restClient\RestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dmitry\Documents\csharp-restClient\RestClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dmitry\Documents\csharp-restClient\RestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dmitry\Documents\csharp-restClient\RestClient\obj\Debug\RestClient.csprojAssemblyReference.cache
+C:\Users\dmitry\Documents\csharp-restClient\RestClient\obj\Debug\RestClient.csproj.CoreCompileInputs.cache
+C:\Users\dmitry\Documents\csharp-restClient\RestClient\obj\Debug\RestClient.csproj.CopyComplete
+C:\Users\dmitry\Documents\csharp-restClient\RestClient\obj\Debug\RestClient.dll
+C:\Users\dmitry\Documents\csharp-restClient\RestClient\obj\Debug\RestClient.pdb
